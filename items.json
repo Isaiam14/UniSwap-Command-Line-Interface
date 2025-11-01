@@ -1,0 +1,18 @@
+[
+    {
+        "item_id": "i1000",
+        "name": "IPad",
+        "category": "Electronics",
+        "owner_id": "u1001",
+        "is_traded": true,
+        "condition": "Used"
+    },
+    {
+        "item_id": "i1001",
+        "name": "Vintage UMD T-Shirt",
+        "category": "Clothing",
+        "owner_id": "u1000",
+        "is_traded": true,
+        "condition": "Used"
+    }
+]
